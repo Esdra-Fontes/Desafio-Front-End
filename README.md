@@ -30,16 +30,11 @@ Desafio-Front-End/
     
 ▶️ Como Executar o Projeto:
 ---
-Clone este repositório:
-- git clone https://github.com/Esdra-Fontes/Desafio-Front-End.git
-Acesse a pasta do projeto:
-- cd Desafio-Front-End
-Instale as dependências:
-- npm install
-Inicie o servidor de desenvolvimento:
-- npm run dev
-Abra no navegador:
-- http://localhost:3000
+- Clone este repositório: git clone https://github.com/Esdra-Fontes/Desafio-Front-End.git
+- Acesse a pasta do projeto: cd Desafio-Front-End
+- Instale as dependências: npm install
+- Inicie o servidor de desenvolvimento: npm run dev
+- Abra no navegador: http://localhost:3000
 
 📚 Aprendizados:
 ---
